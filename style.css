@@ -4,6 +4,10 @@ body {
     font-variant: small-caps;
 }
 
+p, ol, ul {
+    color: #8e25a7;
+}
+
 h1 {
     font-size: 36px;
     text-align: center;
