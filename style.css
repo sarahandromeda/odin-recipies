@@ -1,0 +1,19 @@
+body {
+    color: #2f803e;
+    font-family: "Arial", sans-serif;
+    font-variant: small-caps;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+a {
+    color: #FF5733;
+}
+
+img {
+    height: 600px;
+    width: auto;
+}
